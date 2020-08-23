@@ -1,0 +1,27 @@
+//Haeder Section class name
+
+1.header_main
+2.header_margin
+2.1. header_top //ht_left & ht_right >
+3.header_logo  
+4.header_menu
+
+//Slider or Hero Banner
+1.slider_main
+2.slider_margin
+3.slider_one/left
+4.slider_two/middle
+5.slider_three/right
+
+//Poster or Banner
+1.offer_main
+2.offer_margin
+3.offer_one/left
+4.offer_two/right
+
+
+//Content Section
+1.content_main
+2.content_margin
+3.content_box
+4.content_name/area name
